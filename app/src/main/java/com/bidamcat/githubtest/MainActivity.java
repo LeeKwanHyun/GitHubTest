@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         getSupportActionBar().setTitle("GitHub TEST");
+        
+        int a= 10;
+      
     }
 }
